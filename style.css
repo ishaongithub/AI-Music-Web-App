@@ -52,3 +52,19 @@ body{
          
      font-style: normal;
 }
+.play_button{
+    width:300px;
+    font-size:30px;
+    font-family: 'WaltographRegular';
+    font-weight: normal;
+}
+.stop_button{
+    width:300px;
+    font-size:30px;
+    font-family: 'WaltographRegular';
+    font-weight: normal;
+}
+canvas{
+    border: 5px solid white;
+    border-radius:20px;
+}
